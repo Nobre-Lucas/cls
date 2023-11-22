@@ -11,3 +11,5 @@ Código shell para quem tem preguiça de dar clear ls toda vez que o terminal es
 ## Uso
 
 Digite cls no seu terminal Linux, a partir de qualquer diretório
+
+Adicione a flag -a após cls para listar diretórios e arquivos ocultos também
